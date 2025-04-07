@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCZkuZi3SDloNKFD6XBQj6zkSNRA5QBbUw',
+    apiKey: 'APIKEY',
     appId: '1:38276053882:web:b314a6c210b33454e834c3',
     messagingSenderId: '38276053882',
     projectId: 'vitallinkv2',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDpVyDRgHmfqnJk5oBiXHzur3siNa8E744',
+    apiKey: 'APIKEY',
     appId: '1:38276053882:android:a358f4ba94b8fc96e834c3',
     messagingSenderId: '38276053882',
     projectId: 'vitallinkv2',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBabV5aRaBPUO8iba7ShWQBrE76chLpfls',
+    apiKey: 'APIKEY',
     appId: '1:38276053882:ios:8ae87540c6be8777e834c3',
     messagingSenderId: '38276053882',
     projectId: 'vitallinkv2',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBabV5aRaBPUO8iba7ShWQBrE76chLpfls',
+    apiKey: 'APIKEY',
     appId: '1:38276053882:ios:3e4356ed4b463f05e834c3',
     messagingSenderId: '38276053882',
     projectId: 'vitallinkv2',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCZkuZi3SDloNKFD6XBQj6zkSNRA5QBbUw',
+    apiKey: 'APIKEY',
     appId: '1:38276053882:web:227ec7e0f3b6c8e5e834c3',
     messagingSenderId: '38276053882',
     projectId: 'vitallinkv2',
