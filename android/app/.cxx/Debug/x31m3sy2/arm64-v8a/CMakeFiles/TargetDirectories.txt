@@ -1,0 +1,2 @@
+C:/Users/User/Documents/apps/vitallinkv2/android/app/.cxx/Debug/x31m3sy2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/apps/vitallinkv2/android/app/.cxx/Debug/x31m3sy2/arm64-v8a/CMakeFiles/rebuild_cache.dir

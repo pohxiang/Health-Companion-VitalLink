@@ -1,0 +1,29 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "vitallinkv2",
+                    "appId": "1:38276053882:android:a358f4ba94b8fc96e834c3",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "vitallinkv2",
+                    "configurations": {
+                        "android": "1:38276053882:android:a358f4ba94b8fc96e834c3",
+                        "ios": "1:38276053882:ios:8ae87540c6be8777e834c3",
+                        "macos": "1:38276053882:ios:3e4356ed4b463f05e834c3",
+                        "web": "1:38276053882:web:b314a6c210b33454e834c3",
+                        "windows": "1:38276053882:web:227ec7e0f3b6c8e5e834c3"
+                    }
+                }
+            }
+        }
+    },
+    "firestore": {
+        "rules": "firestore.rules",
+        "indexes": "firestore.indexes.json"
+    }
+}

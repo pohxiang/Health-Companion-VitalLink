@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38276053882",
+    "project_id": "vitallinkv2",
+    "storage_bucket": "vitallinkv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38276053882:android:a358f4ba94b8fc96e834c3",
+        "android_client_info": {
+          "package_name": "com.groupone.vitallink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVyDRgHmfqnJk5oBiXHzur3siNa8E744"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
